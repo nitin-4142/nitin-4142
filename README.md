@@ -2,7 +2,7 @@
   <img src="github-banner.png" alt="GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Revaan J R</h1>
+<h1 align="center">Hi 👋, I'm Nitin Pranav S R</h1>
 
 <h3 align="center">
 Artificial Intelligence • Machine Learning • Full-Stack Developer
@@ -18,7 +18,7 @@ Building intelligent applications through AI, innovation, and modern technologie
 
 <p align="center">
 
-<a href="mailto:revaan.273@gmail.com">
+<a href="mailto:nitinpranav63@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
