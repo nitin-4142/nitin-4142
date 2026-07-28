@@ -130,14 +130,12 @@ Building intelligent applications through AI, innovation, and modern technologie
 
 | 🚀 Project | Description |
 |------------|-------------|
-| 📚 **AI E-Book Creator** | AI-powered platform to generate intelligent e-books. |
 | 🛒 **Smart Procurement Management System** | Enterprise procurement platform with analytics and workflow automation. |
 | 🐠 **Smart Aquarium Monitoring System** | IoT-based monitoring and automation for aquariums. |
 | 🏦 **Bank Management System** | Banking application for customer and transaction management. |
 | 🧩 **Sliding Puzzle Solver** | Interactive visualization using BFS, DFS, and A* Search. |
 | 🎨 **Graph Coloring Visualizer** | Greedy Graph Coloring visualization for Constraint Satisfaction Problems. |
 | 🛡️ **Intrusion Detection System** | CNN-LSTM based network intrusion detection model. |
-| 🎬 **ArenaVerse** | Full-stack entertainment and sports application. |
 | 📰 **Intelligent News Retrieval System** | AI-powered personalized news retrieval platform. |
 
 ---
