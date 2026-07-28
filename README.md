@@ -26,7 +26,7 @@ Building intelligent applications through AI, innovation, and modern technologie
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Revaan23">
+<a href="[https://github.com/Revaan23](https://github.com/nitin-4142)">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
