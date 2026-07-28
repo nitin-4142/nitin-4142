@@ -185,15 +185,6 @@ Building intelligent applications through AI, innovation, and modern technologie
 
 ---
 
-# 📋 GitHub Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Revaan23&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🎯 Areas of Interest
 
