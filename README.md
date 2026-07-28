@@ -2,7 +2,7 @@
   <img src="github-banner.png" alt="GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Nitin Pranav S R</h1>
+<h1 align="center">Hi 👋, I'm Nitin Pranav S </h1>
 
 <h3 align="center">
 Artificial Intelligence • Machine Learning • Full-Stack Developer
